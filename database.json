@@ -1,0 +1,18 @@
+{
+    "dev": {
+      "driver": "pg",
+      "host": "localhost",
+      "database": "storedev",
+      "user": "postgres",
+      "password": "ziad",
+      "port":8000
+    },
+    "test": {
+        "driver": "pg",
+        "host": "localhost",
+        "database": "store",
+        "user": "postgres",
+        "password": "ziad",
+        "port":8000
+    }
+  }
